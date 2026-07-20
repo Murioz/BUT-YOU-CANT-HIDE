@@ -10,7 +10,7 @@ A casual Minecraft Hide N Seek map based on SMCS3: BUT YOU CANT HIDE! episode.
 
 And all the amazing friends who helped us test this map :)
 
-# VERSION IS 1.21.1
+# VERSION IS 1.21.11
 For the best expirience you will need
 * [Simple Voicechat](https://modrinth.com/plugin/simple-voice-chat)
 * [Enhanced Groups](https://www.curseforge.com/minecraft/mc-mods/enhanced-groups)
